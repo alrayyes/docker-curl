@@ -14,6 +14,6 @@ $ docker run --rm appropriate/curl -fsSL https://www.google.com/
 
 ## License
 
-Copyright © 2015 Appropriate Computing
+Copyright © 2019 Ryan Kes
 
 All contents licensed under the [MIT License](LICENSE)
