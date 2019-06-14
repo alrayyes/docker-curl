@@ -4,13 +4,12 @@ Alpine-based image with just curl
 ## Usage
 
 ```console
-$ docker run --rm appropriate/curl -fsSL https://www.google.com/
+$ docker run --rm andthensome/curl -fsSL https://www.google.com/
 ```
 
 ## Tags
 
-* `appropriate/curl:latest`: based on `alpine:latest`
-* `appropriate/curl:edge`: based on `alpine:edge`
+* `andthensome/curl:latest`: based on `alpine:latest`
 
 ## License
 
